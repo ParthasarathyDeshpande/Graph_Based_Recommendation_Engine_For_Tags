@@ -2,7 +2,7 @@
 """
 Created on Sat Aug  8 17:16:42 2020
 
-@author: Himanshu
+
 """
 ''' I uesd the flask for creating the web application'''
 from flask import Flask, request, render_template
